@@ -18,13 +18,13 @@
 
 ```php
 $ pkg install python
-$ git clone https://github.com/Aldi098/Multi-Sms
-$ cd Multi-Sms
-$ python Multi.py ( Harus sabar Menunggu )
+$ git clone https://github.com/Aldi098/Multi-Wa
+$ cd Multi-Wa
+$ python Multi-Wa.py ( Harus sabar Menunggu )
 
 ```
 
-- Link Key : https://bit.ly/Hw8djd7che
+- Link Key : https://bit.ly/Key_Multi_Wa_V2
 
 ```
 • YouTube
